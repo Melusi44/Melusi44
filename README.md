@@ -2,7 +2,7 @@
 
 **`Network/DevOps Engineer`**
 
-I am a passionate engineer with extensive knowledge in software development lifecycle, I bring a range of skills in scripting, programming languages, containerization technologies, and infrastructure-as-code tools to any role. I'm dedicated to building efficient, scalable, and maintainable systems through collaboration and my problem-solving skills. my love for technology inspires me to continuously learn and improve. All projects are built from the ground up.
+I am a passionate engineer with extensive knowledge in software development lifecycle, I bring a range of skills in scripting, programming languages, containerization technologies, and infrastructure-as-code tools to any role. all projects are built from the ground up.
 
 ---
 
