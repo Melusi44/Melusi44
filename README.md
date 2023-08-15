@@ -1,4 +1,4 @@
-# 🏄‍♂️ Melusi Moyo
+# Melusi Moyo
 
 **`Network/DevOps Engineer`**
 
